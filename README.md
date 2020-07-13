@@ -1,8 +1,8 @@
-#  <center>🎲 Análise de Dados 🕵🏻‍♀️</center>
-  
-#  <center>Mortes no Mundo Causadas Pelo COVID-19 🦠</center>
+#  <center>🎲 Análise de Dados 🕵🏻‍♀️ <br/>Mortes no Mundo Causadas Pelo COVID-19 🦠</center>
 
-## FATEC SJC - 2020
+### FATEC SJC - 2020
+
+---
 
 ### 👨🏽‍🏫 Professor Orientador: [Fernando Masanori](https://github.com/fmasanori)
 
