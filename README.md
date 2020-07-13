@@ -27,5 +27,5 @@ Este repositório pussui duas análises, uma faz a análise de quantidade de pes
 
 Os projetos também podem ser visualizados no Google Colaboratory:
 
-<a href="https://colab.research.google.com/drive/1zygqZtAFzVkpgJChNwHIDR8XUCJqMFZe?usp=sharing"><img src="https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Imagens/Bot%C3%A3o%20An%C3%A1lise%20I.png" width="20%" title="Análise de Dados I no Google Colaboratory"></a>
-<a href="https://colab.research.google.com/drive/1JzAQBW1YA3yeTzG7PEf0L0b2Ve4l1utX?usp=sharing"><img src="https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Imagens/Bot%C3%A3o%20An%C3%A1lise%20II.png" width="20%" title="Análise de Dados II no Google Colaboratory"></a>
+<a href="https://colab.research.google.com/drive/1zygqZtAFzVkpgJChNwHIDR8XUCJqMFZe?usp=sharing"><img src="https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Imagem/Bot%C3%A3o%20An%C3%A1lise%20I.png" width="20%" title="Análise de Dados I no Google Colaboratory"></a>
+<a href="https://colab.research.google.com/drive/1JzAQBW1YA3yeTzG7PEf0L0b2Ve4l1utX?usp=sharing"><img src="https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Imagem/Bot%C3%A3o%20An%C3%A1lise%20II.png" width="20%" title="Análise de Dados II no Google Colaboratory"></a>
