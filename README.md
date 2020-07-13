@@ -9,6 +9,8 @@
 > Desse modo, está excluída a garantia ou  responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, 
 > completude e atualidade das informações.
 
+❗**OBS:** As vezes os notebooks (.ipynb) desse repositório apresentam alguns problemas para a visualização, pois no GitHub a renderização é limitada, mas a exibição externa é disponível com o nbviewer, é um símbolodo de um círculo cinza com um traço no meio, tipo esse ⛔, esse símbolo aparece no arquivo quando dá esse problema, então basta clicar nesse símbolo que ele já irá te redirecionar para outro site para uma melhor visualização do projeto.
+
 🎲**DataFrame retirado:** 
     
    + Site: [Our World In Data](https://ourworldindata.org/coronavirus)
@@ -22,8 +24,6 @@ A COVID-19 afeta diferentes pessoas de diferentes maneiras. A maioria das pessoa
 Porém, ela também tem causado muitas mortes, sendo considerada um pandemia e através desse notebook de Análise de Dados conseguimos analisar as mortes causadas por essa doença entre os continente e seus países.
 
 Este repositório pussui duas análises, uma faz a análise de quantidade de pessoas mortas pelo Covid contabilizando somente [nos continentes](https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Mortes%20Causadas%20Pelo%20Covid-19%20Nos%20Continentes.ipynb), enquanto a outra análise contabiliza as mortes [nos países](https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Mortes%20Causadas%20Pelo%20COVID-19%20Nos%20Pa%C3%ADses.ipynb) e dos seus respectivos continentes.
-
-❗**OBS:** As vezes os notebooks (.ipynb) desse repositório apresentam alguns problemas para a visualização, pois no GitHub a renderização é limitada, mas a exibição externa é disponível com o nbviewer, é um símbolodo de um círculo cinza com um traço no meio, tipo esse ⛔, esse símbolo aparece no arquivo quando dá esse problema, então basta clicar nesse símbolo que ele já irá te redirecionar para outro site para uma melhor visualização do projeto.
 
 Os projetos também podem ser visualizados no Google Colaboratory:
 
