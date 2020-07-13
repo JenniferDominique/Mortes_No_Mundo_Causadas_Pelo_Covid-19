@@ -4,8 +4,10 @@
 
 ---
 
-### **<center>⚠️ Disclaimer / Aviso Legal: </center>**
-Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
+> ### **<center>⚠️ Disclaimer / Aviso Legal: </center>**
+> Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. 
+> Desse modo, está excluída a garantia ou  responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, 
+> completude e atualidade das informações.
 
 🎲**DataFrame retirado:** 
     
