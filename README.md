@@ -9,7 +9,7 @@
 > Desse modo, está excluída a garantia ou  responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, 
 > completude e atualidade das informações.
 
-❗**OBS:** As vezes os notebooks (.ipynb) desse repositório apresentam alguns problemas para a visualização, pois no GitHub a renderização é limitada, mas a exibição externa é disponível com o nbviewer, é um símbolodo de um círculo cinza com um traço no meio, tipo esse ⛔, esse símbolo aparece no arquivo quando dá esse problema, então basta clicar nesse símbolo que ele já irá te redirecionar para outro site para uma melhor visualização do projeto.
+❗**OBS:** As vezes os notebooks (.ipynb) desse repositório apresentam alguns problemas para a visualização, pois no GitHub a renderização é limitada, mas a exibição externa é disponível com o nbviewer, é um símbolo de um círculo cinza com um traço no meio, tipo esse ⛔, esse símbolo aparece no arquivo quando dá esse problema, então basta clicar nesse símbolo que ele já irá te redirecionar para outro site para uma melhor visualização do projeto.
 
 🎲**DataFrame retirado:** 
     
