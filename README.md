@@ -24,3 +24,7 @@ Porém, ela também tem causado muitas mortes, sendo considerada um pandemia e a
 Este repositório pussui duas análises, uma faz a análise de quantidade de pessoas mortas pelo Covid contabilizando somente [nos continentes](https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Mortes%20Nos%20Continentes%20Causadas%20Pelo%20COVID-19%20.ipynb), enquanto a outra análise contabiliza as mortes [nos países](https://github.com/JenniferDominique/Mortes_No_Mundo_Causadas_Pelo_Covid-19/blob/master/Mortes%20Nos%20Pa%C3%ADses%20Causadas%20Pelo%20COVID-19.ipynb) e dos seus respectivos continentes.
 
 ❗**OBS:** As vezes os notebooks (.ipynb) desse repositório apresentam alguns problemas para a visualização, pois no GitHub a renderização é limitada, mas a exibição externa é disponível com o nbviewer, é um símbolodo de um círculo cinza com um traço no meio, tipo esse ⛔, esse símbolo aparece no arquivo quando dá esse problema, então basta clicar nesse símbolo que ele já irá te redirecionar para outro site para uma melhor visualização do projeto.
+
+Os projetos também podem ser visualizados no Google Colaboratory:
+* [Análise I](https://colab.research.google.com/drive/1zygqZtAFzVkpgJChNwHIDR8XUCJqMFZe?usp=sharing)
+* Análise II
